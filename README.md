@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derekrein&label=Profile%20views&color=0e75b6&style=flat" alt="derekrein" /> </p>
 
-- 👨‍💻 All of my projects are available at [derekvfx.ca](derekvfx.ca)
+- 👨‍💻 All of my projects are available at [http://derekvfx.ca](derekvfx.ca)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
