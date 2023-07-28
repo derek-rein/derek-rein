@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Derek</h1>
-<h3 align="center">vfx artist / developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derekrein&label=Profile%20views&color=0e75b6&style=flat" alt="derekrein" /> </p>
 
 - 👨‍💻 All of my projects are available at [derekvfx.ca](https://derekvfx.ca)
