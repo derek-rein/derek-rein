@@ -2,8 +2,7 @@
 
 
 ## 👋 Find me
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/cptnd_?style=for-the-badge&logo=x&color=black)](https://www.x.com/cpntd_)
-
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/cptnd_?style=for-the-badge&logo=x&color=black)](https://twitter.com/cptnd_)
 
 
 ## 🛠️ Skills
