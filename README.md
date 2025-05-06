@@ -2,7 +2,7 @@
 
 
 ## 👋 Find me
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/cptnd_?style=for-the-badge&logo=x&color=black)](https://twitter.com/cptnd_)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/derek.rein?style=for-the-badge&logo=x&color=black)](https://x.com/derek.rein)
 
 
 ## 🛠️ Skills
