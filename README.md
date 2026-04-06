@@ -2,7 +2,8 @@
 
 
 ## 👋 Find me
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/derekvfx?style=for-the-badge&logo=x&color=black)]([https://x.com/derekvfx](https://twitter.com/derekvfx))
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/derekvfx?style=for-the-badge&logo=x&color=black)](https://x.com/derekvfx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derekvfx/)
 
 
 ## 🛠️ Skills
