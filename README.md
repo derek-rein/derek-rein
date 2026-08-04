@@ -1,9 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derekrein&label=Profile%20views&color=0e75b6&style=flat" alt="derekrein" /> </p>
 
 
-## 👋 Find me
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/derekvfx?style=for-the-badge&logo=x&color=black)](https://x.com/derekvfx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derekvfx/)
+
 
 
 ## 🛠️ Skills
